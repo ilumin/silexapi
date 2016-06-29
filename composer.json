@@ -1,0 +1,10 @@
+{
+    "name": "ilumin/sliex-api",
+    "authors": [
+        {
+            "name": "Teerasak Vichadee",
+            "email": "teerasak.vic@ascendcorp.com"
+        }
+    ],
+    "require": {}
+}
